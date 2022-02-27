@@ -2,6 +2,8 @@
 
 Create app in telegram https://my.telegram.org/apps
 
+Fill any valid URL there.
+
 # Run 
 
 Set API_ID and API_HASH envs in command below
