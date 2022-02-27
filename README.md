@@ -1,6 +1,7 @@
 # Setup
 
 Create app in telegram https://my.telegram.org/apps
+Fill any valid URL there.
 
 # Run 
 
