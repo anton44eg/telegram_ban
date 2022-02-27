@@ -20,7 +20,8 @@ async def main():
     with open('report_texts.txt') as texts_file:
         texts = funcy.lfilter(None, texts_file.readlines())
     async with Client("my_account", api_id, api_hash) as app:
-        random.shuffle(list(set(chat_names)))
+        chat_names = list(set(chat_names))
+        random.shuffle(chat_names)
         for chat_name in chat_names:
             with suppress(UsernameInvalid, UsernameNotOccupied):
                 chat_name = chat_name.removeprefix('https://t.me/').removeprefix('@').strip()
