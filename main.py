@@ -21,26 +21,25 @@ async def main():
         texts = funcy.lfilter(None, texts_file.readlines())
     async with Client("my_account", api_id, api_hash) as app:
         for chat_name in set(chat_names):
-            with funcy.retry(3, errors=TimeoutError, timeout=1):
-                with suppress(UsernameInvalid, UsernameNotOccupied):
-                    chat_name = chat_name.removeprefix('https://t.me/').removeprefix('@').strip()
-                    print(f'Baning {chat_name}')
-                    chat = await app.get_chat(chat_name)
-                    messages = await app.get_history(chat.id)
-                    num_messages = random.randint(3, 10)
-                    await app.send(
-                        Report(
-                            peer=await app.resolve_peer(peer_id=chat.id),
-                            id=[
-                                message.message_id
-                                for msg_num, message in enumerate(messages)
-                                if msg_num < num_messages
-                            ],
-                            reason=InputReportReasonViolence(),
-                            message=random.choice(texts)
-                        )
+            with suppress(UsernameInvalid, UsernameNotOccupied):
+                chat_name = chat_name.removeprefix('https://t.me/').removeprefix('@').strip()
+                print(f'Baning {chat_name}')
+                chat = await app.get_chat(chat_name)
+                messages = await app.get_history(chat.id)
+                num_messages = random.randint(3, 10)
+                await app.send(
+                    Report(
+                        peer=await app.resolve_peer(peer_id=chat.id),
+                        id=[
+                            message.message_id
+                            for msg_num, message in enumerate(messages)
+                            if msg_num < num_messages
+                        ],
+                        reason=InputReportReasonViolence(),
+                        message=random.choice(texts)
                     )
-                    print(f'Channel {chat_name} reported')
+                )
+                print(f'Channel {chat_name} reported')
             await asyncio.sleep(random.randint(1, 60))
 
 asyncio.run(main())
