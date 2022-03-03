@@ -235,6 +235,7 @@ live_rt
 luganskallnews
 lugansktodayy
 madam_secretar
+majorselivanov
 mardanaka
 margaritasimonyan
 mariupol_z
@@ -291,11 +292,13 @@ nomenclatura
 notes_veterans
 nourlnews
 novorosinform
+novostirussia24
 ntnzn
 ochevidecrfua
 oculus_inferno
 oddr_info
 oko_ok
+oldhellboy
 oldminerkomi
 oleglurie
 olegtsarov
@@ -362,14 +365,17 @@ rkn_tg
 rlz_the_kraken
 robabayan
 romagolovanov
+rossia_news
 rostov_glavniy
 rt_russian
 rukakremlja
 ruredmantis
+rus24_7
 russ_orientalist
 russian_osint/1237
 russianfuture
 russianhelp
+russianovosti_24
 russiavpered001
 russiavpered002
 russiavpered003
@@ -473,6 +479,7 @@ wingsofwar
 wtyhe2375
 yaumamki
 yudenich
+yug_plazdarm
 yurasumy
 zaes_energoatom
 zakuliska
