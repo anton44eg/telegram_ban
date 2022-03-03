@@ -66,7 +66,7 @@ async def main():
                 )
                 save_banned(db, channel_name)
                 print(f'Channel {channel_name} reported')
-            await asyncio.sleep(random.randint(1, 45))
+            await asyncio.sleep(random.randint(1, 35))
 
 if __name__ == '__main__':
     asyncio.run(main())
