@@ -76,6 +76,7 @@ SonOfMonarchy
 SuperRu
 SwissVatnik
 TJournal
+TRO_DPR
 TanyaButskaya
 Ten_NaPleten
 TheLeagueOfGentlemen
@@ -109,6 +110,7 @@ archivarius_dz
 armiya_Z
 armmirotvorec
 armyZO
+asamtokakdumaesh
 astramilitarum
 atodoneckpobeda
 avatkov
@@ -138,6 +140,7 @@ chvkmedia
 cmiye
 conqueror95
 crimeainform
+dark_donetskz
 daviegoblyad
 degrag
 delyagin
@@ -248,6 +251,7 @@ mediakinesis
 mediasrachi3
 mediatech
 medvedev_note
+mezyukho
 mig41
 migdalsergei
 mikayelbad
@@ -462,6 +466,7 @@ volodin_saratov
 volrota
 vorchunmedia
 vorposte
+voynareal
 vprorok
 vrogov
 vv_volodin
