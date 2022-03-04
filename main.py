@@ -69,7 +69,7 @@ async def main():
                     print(f'Channel {channel_name} reported')
                 except FloodWait:
                     await asyncio.sleep(60)
-            await asyncio.sleep(random.randint(1, 35))
+            await asyncio.sleep(random.randint(1, 20))
 
 if __name__ == '__main__':
     asyncio.run(main())
