@@ -32,6 +32,25 @@ def is_banned_recently(db, channel_name):
     return True
 
 
+async def send_report(app, channel_name):
+    print(f'Reporting {channel_name}')
+    chat = await app.get_chat(channel_name)
+    messages = await app.get_history(chat.id)
+    num_messages = random.randint(3, 10)
+    await app.send(
+        Report(
+            peer=await app.resolve_peer(peer_id=chat.id),
+            id=[
+                message.message_id
+                for msg_num, message in enumerate(messages)
+                if msg_num < num_messages
+            ],
+            reason=InputReportReasonViolence(),
+            message=random.choice(texts)
+        )
+    )
+
+
 async def main():
     db = pickledb.load('state/db.db', True)
     with open('channels.txt') as chats_file:
@@ -49,26 +68,12 @@ async def main():
                 continue
             with suppress(UsernameInvalid, UsernameNotOccupied, ChannelPrivate):
                 try:
-                    print(f'Reporting {channel_name}')
-                    chat = await app.get_chat(channel_name)
-                    messages = await app.get_history(chat.id)
-                    num_messages = random.randint(3, 10)
-                    await app.send(
-                        Report(
-                            peer=await app.resolve_peer(peer_id=chat.id),
-                            id=[
-                                message.message_id
-                                for msg_num, message in enumerate(messages)
-                                if msg_num < num_messages
-                            ],
-                            reason=InputReportReasonViolence(),
-                            message=random.choice(texts)
-                        )
-                    )
+                    await send_report(app, channel_name)
                     save_banned(db, channel_name)
                     print(f'Channel {channel_name} reported')
-                except FloodWait:
-                    await asyncio.sleep(60)
+                except FloodWait as e:
+                    print(e)
+                    # await asyncio.sleep(60)
             await asyncio.sleep(random.randint(1, 20))
 
 if __name__ == '__main__':
