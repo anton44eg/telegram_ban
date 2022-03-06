@@ -32,7 +32,7 @@ def is_banned_recently(db, channel_name):
     return True
 
 
-async def send_report(app, channel_name):
+async def send_report(app, channel_name, texts):
     print(f'Reporting {channel_name}')
     chat = await app.get_chat(channel_name)
     messages = await app.get_history(chat.id)
@@ -68,7 +68,7 @@ async def main():
                 continue
             with suppress(UsernameInvalid, UsernameNotOccupied, ChannelPrivate):
                 try:
-                    await send_report(app, channel_name)
+                    await send_report(app, channel_name, texts)
                     save_banned(db, channel_name)
                     print(f'Channel {channel_name} reported')
                 except FloodWait as e:
