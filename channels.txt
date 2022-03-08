@@ -43,6 +43,7 @@ KharkovZWar
 KrokooDil
 Kurskiy_Pravdorub
 LIC_LPR
+LPR_JCCC
 LastOfRus
 MakarenkoLive
 MariaVladimirovnaZakharova
@@ -80,7 +81,6 @@ Psihychka
 RIA82rf
 RIAKremlinpool
 RKadyrov_95
-RKadyrov_95/1363
 ROMe8814
 RSaponkov
 RU_S_INT
@@ -90,7 +90,6 @@ RegnumMoscow
 Rem7sek
 RtrDonetsk
 RusTroyka
-RusTroyka/17
 Russian_Reconquista
 Russkyship
 SIL0VIKI
@@ -171,8 +170,6 @@ brussinf
 bulbe_de_trones
 buntariy
 bydrbre
-c/1386824144/25096
-c/1799809512/6086
 chanelpeskova
 chechnya_translyatsia_kadyrovtsy
 chergovii
@@ -262,11 +259,9 @@ gruz200_ua
 gyurzzza
 h1ghl1ghts
 hackberegini
-hackberegini/723
 history_doronina
 holmogortalks
 hot_ukraine_news
-http://t.me/rian_ru
 huliwar
 i_curtain
 ia_steklomoy
@@ -313,7 +308,7 @@ kremlinprachka
 krimski
 krispotupchik
 kykygnezdo
-ladesov_invest/4848
+ladesov_invest
 lady_north
 legalizaciyaMID
 legitimniy
@@ -347,7 +342,6 @@ mezyukho
 mig41
 migdalsergei
 mihailaksel
-mihailaksel/1284
 mihalcow
 mihalych67
 mikayelbad
@@ -372,7 +366,7 @@ na_urale
 nabludatels
 nach_shtabu
 nailyaaskerzade
-nastikatube/24937
+nastikatube
 nastol
 navideovidno
 ne_propaganda
@@ -391,7 +385,6 @@ newsby_info
 newswash
 nexta_live
 nezhurka
-nezhurka/1473
 nicstavrogin
 niemandswasser
 nifed_alerts
@@ -415,7 +408,6 @@ okolokremlya
 oldhellboy
 oldlentach
 oldminerkomi
-oldminerkomi/1008
 oleglurie
 olegtsarov
 omonmoscow
@@ -488,7 +480,6 @@ razvedinfo
 razvedkanal
 rbc_news
 readovkanews
-readovkanews/27347
 rebel_jack_review
 red_crimea
 redacted6
@@ -504,7 +495,6 @@ rlz_the_kraken
 robabayan
 romagolovanov
 rosgvardia67
-rosgvardia67/2502
 rossia_news
 rostov_glavniy
 rostov_na_konu
@@ -518,7 +508,7 @@ rus_news8
 rusmonstr
 russ_orientalist
 russ_polit
-russian_osint/1237
+russian_osint
 russian_ukraine0
 russian_volunteer
 russianfuture
@@ -533,7 +523,6 @@ rusvesnasu
 rusyerevantoday
 rwhack_group
 rybar
-rybar/27799
 sashakots
 savanichi
 savchuk_serg
@@ -584,8 +573,6 @@ svodkidpr
 svodkinovorossiya
 swodki
 syriantube
-t.me/LIC_LPR
-t.me/LPR_JCCC
 tass_agency
 tavri
 teory_elit
@@ -595,7 +582,7 @@ thehandofthekremlin
 theshard18
 tikandelaki
 topgun_spb
-toplesofficial/3743
+toplesofficial
 topor
 topspb_tv
 totall_news
@@ -607,7 +594,6 @@ ukr_leaks
 ukraina_ru
 ukraine_voina_news
 ukropi
-ukropi/5576
 uniannet
 unitynationnarmy
 unitynationnarmyspb
@@ -629,7 +615,6 @@ videotca_Andrea
 vityzeva
 vladivostok1978
 vladlentatarsky
-vladlentatarsky/11651
 vmarahovsky
 voen_kor
 voenacher
@@ -652,7 +637,6 @@ vzglyad_ru
 warfakeres
 warfakes
 wargonzo
-wargonzo/6112
 warjournaltg
 whitefilin
 whytzek
