@@ -223,6 +223,7 @@ dvachannel
 dvinskyclub
 economika
 egorgalenko
+ehosev
 ekvinokurova
 elite_soldiers_ru
 enderovich
@@ -258,9 +259,11 @@ gramotyyaroslava
 grey_zone
 griaz_zamerla
 gruz200_ua
+gyurzzza
 h1ghl1ghts
 hackberegini
 hackberegini/723
+history_doronina
 holmogortalks
 hot_ukraine_news
 http://t.me/rian_ru
@@ -506,6 +509,7 @@ rostov_glavniy
 rostov_na_konu
 rt_russian
 rtvimain
+rubezhnoe_discuss
 rukakremlja
 ruredmantis
 rus24_7
@@ -593,6 +597,7 @@ topor
 topspb_tv
 totall_news
 tsargradtv
+turan_express
 tvjihad
 uaaxxxxx
 ukr_leaks
