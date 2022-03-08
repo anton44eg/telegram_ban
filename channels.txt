@@ -455,6 +455,7 @@ politrings
 politrussiacom
 polittemnik
 polkovnikt
+polpredstvo_skfo
 pomosh_i_osvobozhdenie
 pootinizm
 popovrtrchat
@@ -518,6 +519,7 @@ rusmonstr
 russ_orientalist
 russ_polit
 russian_osint/1237
+russian_ukraine0
 russian_volunteer
 russianfuture
 russianhelp
@@ -568,6 +570,7 @@ sputnikby
 sputniklive
 ssigny
 ssleg
+stb_safety
 stepnoy_veter
 stoprussiachannel
 stormdaily
