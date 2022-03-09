@@ -1,6 +1,7 @@
 +2HqJrmLoo0U4YjYy
 +2cJLh6ccgfViMDI6
 +6s6mYNqRYwpkNzI6
++Ih_riVg0qukxOWRi
 +RqZ8QiPPeJdjMGM6
 ASGasparyan
 ASupersharij
@@ -28,6 +29,7 @@ ENews112
 EQUILIBRIUM2019
 EvPanina
 FM_Analitics
+Factdey
 Federalcity
 Fedorov_Max
 Govorit_Topaz
@@ -92,6 +94,7 @@ RtrDonetsk
 RusTroyka
 Russian_Reconquista
 Russkyship
+SHTABHDSHNR
 SIL0VIKI
 SMIcrimea
 SecLabNews
@@ -142,6 +145,7 @@ anti_navalny
 antimaidan
 antiskrepa
 apostolaki_the_cat
+aramsays
 archivarius_dz
 armiya_Z
 armmirotvorec
@@ -154,6 +158,7 @@ aviadispet4er
 balkanossiper
 basenkovvv
 bazabazon
+bazed_xx
 bbbreaking
 bditelnost
 beggarinvest
@@ -187,6 +192,8 @@ crimea_operative
 crimeainform
 ctrs2018
 cyber_Mip
+cyberguerilas
+cyberwar_world
 d_slava476
 dark_donetskz
 daviegoblyad
@@ -204,6 +211,7 @@ dnr_lnrf
 dnrlnronline
 dnrzaputina
 docpro
+dolgarevaanna
 donbass_novosti_peregovori
 donbass_segodnya
 donbasscase
@@ -296,6 +304,7 @@ kept_woman_n
 kharkovskie_partizani
 knightsmove
 kononenkome
+koro4eDON
 korobkovtv
 kozakrichala
 kpotupchik
@@ -523,6 +532,9 @@ rusvesnasu
 rusyerevantoday
 rwhack_group
 rybar
+rybar_bot
+rybar_feedback_bot
+rybarnaya_1
 sashakots
 savanichi
 savchuk_serg
@@ -615,6 +627,7 @@ videotca_Andrea
 vityzeva
 vladivostok1978
 vladlentatarsky
+vladlentatarsky_books
 vmarahovsky
 voen_kor
 voenacher
