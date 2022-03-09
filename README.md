@@ -4,7 +4,11 @@ Create app in telegram https://my.telegram.org/apps
 
 Fill any valid URL there.
 
+Sometimes it responds with **ERROR** message - try different values for app name, short name and URL or try again a bit later.
+
 # Run 
+
+## Docker way
 
 Set API_ID and API_HASH envs in command below
 

@@ -20,7 +20,7 @@ BANNED_TIMEOUT = 12 * 60 * 60  # 12 Hours
 
 
 def get_key(channel_name):
-    return f'{account_name}:channel:{channel_name}'
+    return f'channel:{channel_name}'
 
 
 def save_banned(db, channel_name):
@@ -58,7 +58,7 @@ async def send_report(app, channel_name, texts):
 
 
 async def main():
-    db = pickledb.load('state/db.db', True)
+    db = pickledb.load(f'state/{account_name}.db', True)
     with open('channels.txt') as chats_file:
         channel_names = funcy.lfilter(None, chats_file.readlines())
     with open('report_texts.txt') as texts_file:
@@ -86,6 +86,8 @@ async def main():
                     print(e)
                     await asyncio.sleep(10)
             await asyncio.sleep(random.randint(1, 20))
+
+    print('\nРуський воєнний корабль, іди нахуй!')
 
 if __name__ == '__main__':
     try:
