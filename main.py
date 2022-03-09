@@ -3,6 +3,7 @@ from contextlib import suppress
 import os
 import time
 import random
+from pathlib import Path
 
 import funcy
 import pickledb
@@ -10,6 +11,8 @@ from pyrogram import Client
 from pyrogram.errors import UsernameInvalid, UsernameNotOccupied, ChannelPrivate, FloodWait, PeerIdInvalid
 from pyrogram.raw.functions.messages import Report
 from pyrogram.raw.types import InputReportReasonViolence
+
+from storage import Storage
 
 api_id = int(os.environ.get('API_ID'))
 api_hash = os.environ.get('API_HASH')
@@ -63,7 +66,8 @@ async def main():
         channel_names = funcy.lfilter(None, chats_file.readlines())
     with open('report_texts.txt') as texts_file:
         texts = funcy.lfilter(None, texts_file.readlines())
-    async with Client(account_name, api_id, api_hash, no_updates=True, workdir='state') as app:
+    storage = Storage(account_name, Path('state'))
+    async with Client(storage, api_id, api_hash, no_updates=True, workdir='state') as app:
         channel_names = list(set(channel_names))
         random.shuffle(channel_names)
         print(f'{len(channel_names)} in list')
@@ -86,7 +90,7 @@ async def main():
                     print(f'Channel {channel_name} reported')
                 except FloodWait as e:
                     print(e)
-                    await asyncio.sleep(10)
+                    await asyncio.sleep(5)
             await asyncio.sleep(random.randint(1, 20))
 
     print('\nРуський воєнний корабль, іди нахуй!')
