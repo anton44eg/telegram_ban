@@ -83,6 +83,7 @@ async def main():
                 UsernameNotOccupied,
                 ChannelPrivate,
                 PeerIdInvalid,
+                TimeoutError,
             ):
                 try:
                     await send_report(app, channel_name, texts)
