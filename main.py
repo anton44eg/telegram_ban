@@ -68,6 +68,8 @@ async def main():
         random.shuffle(channel_names)
         print(f'{len(channel_names)} in list')
         for channel_name in channel_names:
+            if channel_name.startswith('+'):
+                continue
             channel_name = channel_name.removeprefix('https://t.me/').removeprefix('@').strip()
             if is_banned_recently(db, channel_name):
                 print(f'{channel_name} was already reported in last 12 hours')

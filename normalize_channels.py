@@ -12,6 +12,8 @@ async def main():
         chat_name = chat_name.removeprefix('https://t.me/').removeprefix('@').strip()
         normalized_names.append(chat_name)
     for name in sorted(set(normalized_names)):
+        if name.startswith('+'):
+            continue
         print(name)
 
 asyncio.run(main())
