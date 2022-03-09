@@ -7,7 +7,7 @@ import random
 import funcy
 import pickledb
 from pyrogram import Client
-from pyrogram.errors import UsernameInvalid, UsernameNotOccupied, ChannelPrivate, FloodWait
+from pyrogram.errors import UsernameInvalid, UsernameNotOccupied, ChannelPrivate, FloodWait, PeerIdInvalid
 from pyrogram.raw.functions.messages import Report
 from pyrogram.raw.types import InputReportReasonViolence
 
@@ -37,14 +37,17 @@ async def send_report(app, channel_name, texts):
     chat = await app.get_chat(channel_name)
     messages = await app.get_history(chat.id)
     num_messages = random.randint(3, 10)
+    message_ids = [
+        message.message_id
+        for msg_num, message in enumerate(messages)
+        if msg_num < num_messages
+    ]
+    if not message_ids:
+        return
     await app.send(
         Report(
             peer=await app.resolve_peer(peer_id=chat.id),
-            id=[
-                message.message_id
-                for msg_num, message in enumerate(messages)
-                if msg_num < num_messages
-            ],
+            id=message_ids,
             reason=InputReportReasonViolence(),
             message=random.choice(texts)
         )
@@ -66,15 +69,23 @@ async def main():
             if is_banned_recently(db, channel_name):
                 print(f'{channel_name} was already reported in last 12 hours')
                 continue
-            with suppress(UsernameInvalid, UsernameNotOccupied, ChannelPrivate):
+            with suppress(
+                UsernameInvalid,
+                UsernameNotOccupied,
+                ChannelPrivate,
+                PeerIdInvalid,
+            ):
                 try:
                     await send_report(app, channel_name, texts)
                     save_banned(db, channel_name)
                     print(f'Channel {channel_name} reported')
                 except FloodWait as e:
                     print(e)
-                    # await asyncio.sleep(60)
+                    await asyncio.sleep(10)
             await asyncio.sleep(random.randint(1, 20))
 
 if __name__ == '__main__':
-    asyncio.run(main())
+    try:
+        asyncio.run(main())
+    except KeyboardInterrupt:
+        print('\nРуський воєнний корабль, іди нахуй!')
