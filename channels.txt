@@ -150,6 +150,7 @@ archivarius_dz
 armiya_Z
 armmirotvorec
 armyZO
+arturkra95
 asamtokakdumaesh
 astramilitarum
 atodoneckpobeda
@@ -330,6 +331,7 @@ lgbelarussegodnya
 life_odessa
 live_rt
 livenec
+luganmedia
 luganskallnews
 lugansktodayy
 madam_secretar
@@ -380,6 +382,7 @@ nailyaaskerzade
 nalchik0
 nastikatube
 nastol
+nationalist_russian
 navideovidno
 ne_propaganda
 nealbin
@@ -475,6 +478,7 @@ pridybaylo
 prosmis
 publikuemvce
 pushilindenis
+putin_zelenskiy7
 pvsgns
 qa_automation
 r0xieee
