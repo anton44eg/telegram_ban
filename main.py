@@ -13,11 +13,14 @@ from pyrogram.raw.types import InputReportReasonViolence
 
 api_id = int(os.environ.get('API_ID'))
 api_hash = os.environ.get('API_HASH')
+account_name = os.environ.get('ACCOUNT_NAME', 'my_account')
 
 
 BANNED_TIMEOUT = 12 * 60 * 60  # 12 Hours
 
-get_key = lambda channel_name: f'channel:{channel_name}'
+
+def get_key(channel_name):
+    return f'{account_name}:channel:{channel_name}'
 
 
 def save_banned(db, channel_name):
@@ -60,7 +63,7 @@ async def main():
         channel_names = funcy.lfilter(None, chats_file.readlines())
     with open('report_texts.txt') as texts_file:
         texts = funcy.lfilter(None, texts_file.readlines())
-    async with Client("my_account", api_id, api_hash, no_updates=True, workdir='state') as app:
+    async with Client(account_name, api_id, api_hash, no_updates=True, workdir='state') as app:
         channel_names = list(set(channel_names))
         random.shuffle(channel_names)
         print(f'{len(channel_names)} in list')
