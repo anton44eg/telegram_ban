@@ -159,6 +159,7 @@ astramilitarum
 atodoneckpobeda
 avatkov
 aviadispet4er
+bakhmach_ru
 balkanossiper
 basenkovvv
 bazabazon
@@ -369,6 +370,7 @@ milinfolive
 milinfolivesvarschiki
 milit_zondez
 military_corner
+military_events_in_Ukraine
 militaryreview
 minzdravny
 miroshnik_r
@@ -408,6 +410,7 @@ newsby_info
 newsruandua
 newswash
 nexta_live
+nezhin_ru
 nezhurka
 nicstavrogin
 niemandswasser
@@ -459,6 +462,7 @@ pl_syrenka
 pltrk
 plushevie
 plusjournal
+pm_rus
 pobeda75
 podled
 poisk_mil
@@ -619,6 +623,7 @@ toplesofficial
 topor
 topspb_tv
 totall_news
+trueolen
 tsargradtv
 turan_express
 tvjihad
