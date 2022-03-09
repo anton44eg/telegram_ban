@@ -70,7 +70,7 @@ async def main():
     async with Client(storage, api_id, api_hash, no_updates=True, workdir='state') as app:
         channel_names = list(set(channel_names))
         random.shuffle(channel_names)
-        print(f'{len(channel_names)} in list')
+        print(f'{len(channel_names)} channel in list')
         for channel_name in channel_names:
             if channel_name.startswith('+'):
                 continue
@@ -90,7 +90,7 @@ async def main():
                     print(f'Channel {channel_name} reported')
                 except FloodWait as e:
                     print(e)
-                    await asyncio.sleep(5)
+                    continue
             await asyncio.sleep(random.randint(1, 20))
 
     print('\nРуський воєнний корабль, іди нахуй!')
