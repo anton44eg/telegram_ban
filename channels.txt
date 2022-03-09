@@ -32,6 +32,7 @@ FM_Analitics
 Factdey
 Federalcity
 Fedorov_Max
+FridrihShow
 Govorit_Topaz
 Hard_Blog_Line
 HarryPukich
@@ -50,6 +51,7 @@ LastOfRus
 MakarenkoLive
 MariaVladimirovnaZakharova
 Marinaslovo
+Mariypolrus
 MaterikMedia
 MaximYusin
 MayorFSB
@@ -133,6 +135,7 @@ act_next
 adirect
 agentgosdepa1
 agitpolk
+ahtirka_ru
 akashevarova
 akimapache
 akitilop
@@ -231,6 +234,7 @@ dvinskyclub
 economika
 egorgalenko
 ehosev
+ekaterina_dashevskaya
 ekvinokurova
 elite_soldiers_ru
 enderovich
@@ -254,6 +258,7 @@ germanvladimirov
 ghost_of_novorossia
 glavmedia
 glavpolit
+gluhov_ru
 go338
 godeye_ru
 gogoKremlin
@@ -307,6 +312,7 @@ kept_woman_n
 kharkovskie_partizani
 knightsmove
 kononenkome
+konotop_ru
 koro4eDON
 korobkovtv
 kozakrichala
@@ -331,6 +337,7 @@ lgbelarussegodnya
 life_odessa
 live_rt
 livenec
+lnridnrru
 luganmedia
 luganskallnews
 lugansktodayy
@@ -396,7 +403,9 @@ newjon2022
 newlg2022
 news_forfree
 news_online_24
+news_vo
 newsby_info
+newsruandua
 newswash
 nexta_live
 nezhurka
@@ -510,6 +519,7 @@ rkn_tg
 rlz_the_kraken
 robabayan
 romagolovanov
+romny_ru
 rosgvardia67
 rossia_news
 rostov_glavniy
@@ -558,6 +568,7 @@ sex_drugs_kahlo
 sheptoon
 sheyhtamir
 shkola_zhizn
+shostka_ru
 shot_shot
 silasaistoka
 siloviki_chat
@@ -587,6 +598,7 @@ stormdaily
 streli_kazbeka
 stuksnizu
 sueverdem
+sumy_ru
 superdolgov
 svarschiki
 svinotbiv
@@ -643,6 +655,7 @@ voenacher
 voenkorKotenok
 voenzhur
 voice_of_russia
+voiceofrightness
 voitenkov
 volodin_saratov
 volrota
