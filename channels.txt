@@ -28,6 +28,7 @@ Factdey
 Federalcity
 Fedorov_Max
 FridrihShow
+Generalnote
 Govorit_Topaz
 Hard_Blog_Line
 HarryPukich
@@ -38,9 +39,11 @@ KarauLnet
 KatiaTxiLive
 KharkovWarZ
 KharkovZWar
+Kiev_Republic
 KrokooDil
 Kurskiy_Pravdorub
 LIC_LPR
+LNR_DNR_info_bot
 LPR_JCCC
 LastOfRus
 MakarenkoLive
@@ -120,6 +123,7 @@ Vzgliad_iz_Donbassa
 WarOnlineNews
 Wek_ru
 WhiteHouseCards
+XHP_tg
 XU_kraine
 YUGLIVE
 Yaroslav_Yara
@@ -132,6 +136,7 @@ act_next
 adirect
 agentgosdepa1
 agitpolk
+ags_chat
 ahtirka_ru
 akashevarova
 akimapache
@@ -214,6 +219,7 @@ dnr_lnrf
 dnrlnronline
 dnrzaputina
 docpro
+dolg_z
 dolgarevaanna
 donbass_novosti_peregovori
 donbass_segodnya
@@ -253,6 +259,7 @@ galulala
 garagehacking
 gazetaru
 genshab
+georgievsk1777
 germanvladimirov
 ghost_of_novorossia
 glavmedia
@@ -449,6 +456,8 @@ oprf_official
 opyat22
 orda_mordora
 orfosvinstvo
+ostorozhno_novosti
+panda_news_panda
 panteri_panteri
 panteripanterishop
 parbut
@@ -537,8 +546,10 @@ ruredmantis
 rus24_7
 rus_news8
 rusmonstr
+rusnetocracy
 russ_orientalist
 russ_polit
+russarmia
 russian_osint
 russian_ukraine0
 russian_volunteer
@@ -605,6 +616,7 @@ stuksnizu
 sueverdem
 sumy_ru
 superdolgov
+sv_lj
 svarschiki
 svinotbiv
 svodkidpr
@@ -693,6 +705,7 @@ yudenich
 yug_plazdarm
 yurasumy
 z_kharkovnash
+z_osvobodim
 zaes_energoatom
 zakuliska
 zamesinfo
