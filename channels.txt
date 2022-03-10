@@ -94,6 +94,7 @@ Russkyship
 SHTABHDSHNR
 SIL0VIKI
 SMIcrimea
+S_Udaev
 SecLabNews
 SergeyKolyasnikov
 ShlyapaChelentano
@@ -125,6 +126,7 @@ Yaroslav_Yara
 Za_Derjavy
 Ze_kartel
 Zloyrusskiy3_bot
+a_vyshinskiy
 abunin
 act_next
 adirect
@@ -224,6 +226,7 @@ dontime
 dorogoydedushka
 dplatonova
 dr_alex_sosnowski
+dtlive
 duma_2021
 dvachannel
 dvinskyclub
@@ -258,6 +261,7 @@ gluhov_ru
 go338
 godeye_ru
 gogoKremlin
+golosmordora
 good78news
 gorlovka
 gossluga
@@ -617,6 +621,7 @@ topgun_spb
 toplesofficial
 topor
 topspb_tv
+topwar_ru
 totall_news
 trueolen
 tsargradtv
@@ -691,6 +696,7 @@ zakuliska
 zamesinfo
 zampolitnews
 zapiski_veterana
+zelensky_voyna
 zheltyeslivy
 zhestvoinaukraina
 zhivoff
