@@ -64,6 +64,7 @@ MuesliLavrova
 NN_strelka
 NeSocSeti
 Nevrotique
+Newhards
 NikonovLive
 NovorossiyaNews
 NovostiDamask
@@ -119,7 +120,10 @@ Ugolok_Sitha
 Ukrainian_format
 Varshava8888
 Vasily_Prozorov
+VladimirKarasyov
+VwordMedia
 Vzgliad_iz_Donbassa
+WarDonbass
 WarOnlineNews
 Wek_ru
 WhiteHouseCards
@@ -127,6 +131,7 @@ XHP_tg
 XU_kraine
 YUGLIVE
 Yaroslav_Yara
+Z_strana
 Za_Derjavy
 Ze_kartel
 Zloyrusskiy3_bot
@@ -139,16 +144,20 @@ agitpolk
 ags_chat
 ahtirka_ru
 akashevarova
+akhmeddudaev
 akimapache
 akitilop
 aleksandr_skif
 alexandr_malkevich
+alexeypoddubny_jango
 analyst_on_the_couch
 anna_news
 annashafran
 anti_navalny
+antifishechki
 antimaidan
 antiskrepa
+apleonkov
 apostolaki_the_cat
 aramsays
 archivarius_dz
@@ -192,6 +201,7 @@ chp_donetsk
 chp_show
 chp_ukraina_voina_russia
 chvkmedia
+chvteme
 cmiye
 conqueror95
 cossaru
@@ -236,6 +246,7 @@ dtlive
 duma_2021
 dvachannel
 dvinskyclub
+ea_potapoff
 economika
 egorgalenko
 ehosev
@@ -244,6 +255,7 @@ ekvinokurova
 elite_soldiers_ru
 enderovich
 epoddubny
+ermoscow
 evgenyprimakov
 extremism_71
 faceofwar
@@ -258,6 +270,7 @@ fuckyouthatswhy
 galulala
 garagehacking
 gazetaru
+gazmanovOG
 genshab
 georgievsk1777
 germanvladimirov
@@ -277,6 +290,7 @@ gpkgovby
 gramotyyaroslava
 grey_zone
 griaz_zamerla
+groznytv
 gruz200_ua
 gyurzzza
 h1ghl1ghts
@@ -366,6 +380,7 @@ mediakinesis
 mediasrachi3
 mediatech
 medvedev_note
+merciless_russia
 mezyukho
 mig41
 migdalsergei
@@ -385,7 +400,9 @@ mislinemisli
 mllegion
 momanya_tut
 montyan2
+moria40k
 mrakoban
+msgazdiev
 munpes
 music_muzon_vk
 myrevolutionrus
@@ -398,6 +415,7 @@ nailyaaskerzade
 nalchik0
 nastikatube
 nastol
+national_overseer
 nationalist_russian
 navideovidno
 ne_propaganda
@@ -457,6 +475,7 @@ opyat22
 orda_mordora
 orfosvinstvo
 ostorozhno_novosti
+paladin1211
 panda_news_panda
 panteri_panteri
 panteripanterishop
@@ -492,6 +511,7 @@ poptatiana
 post11x_reborn
 post_enot
 postposttruth
+pravda_shuravi
 pravitelstvokbr
 pravyy_vestnik
 prbezposhady
@@ -574,7 +594,7 @@ savchuk_serg
 sbagdasarov
 schokirovan
 sddonbassa
-sddonbassa+2HqJrmLoo0U4YjYy
+sebestoimost
 sector_shpir
 sergeymiheev
 seryy_krot
@@ -590,6 +610,7 @@ silasaistoka
 siloviki_chat
 sinelor
 skabeeva
+skabeevy
 skfo_telegraph
 skosoi
 slivypervogo
@@ -607,12 +628,15 @@ sputnikby
 sputniklive
 ssigny
 ssleg
+staraya
+stas_news_life
 stb_safety
 stepnoy_veter
 stoprussiachannel
 stormdaily
 streli_kazbeka
 stuksnizu
+subject_main
 sueverdem
 sumy_ru
 superdolgov
@@ -688,6 +712,7 @@ vv_volodin
 vybora
 vysokygovorit
 vzglyad_ru
+warRussiaUkraine2022
 warfakeres
 warfakes
 wargonzo
@@ -706,6 +731,7 @@ yug_plazdarm
 yurasumy
 z_kharkovnash
 z_osvobodim
+zabar1986
 zaes_energoatom
 zakuliska
 zamesinfo
@@ -716,6 +742,7 @@ zheltyeslivy
 zhestvoinaukraina
 zhivoff
 zola_of_renovation
+zoperation
 zradaperemoga
 zubovskiy4
 zvezdanews

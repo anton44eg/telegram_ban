@@ -9,7 +9,11 @@ async def main():
     chat_names = list(set(chat_names))
     normalized_names = []
     for chat_name in chat_names:
-        chat_name = chat_name.removeprefix('https://t.me/').removeprefix('@').strip()
+        chat_name = chat_name\
+            .removeprefix('https://t.me/')\
+            .removeprefix('http://t.me/')\
+            .removeprefix('@')\
+            .strip()
         normalized_names.append(chat_name)
     for name in sorted(set(normalized_names)):
         if name.startswith('+'):
