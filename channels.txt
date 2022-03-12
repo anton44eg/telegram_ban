@@ -35,8 +35,10 @@ HarryPukich
 HouseOfCardsRussia
 Ivorytowers
 JokerDNR
+KChRx
 KarauLnet
 KatiaTxiLive
+Kavkazskaya_pravda
 KharkovWarZ
 KharkovZWar
 Kiev_Republic
@@ -110,6 +112,7 @@ SonOfMonarchy
 SuperRu
 SwissVatnik
 TJournal
+TOP_68
 TRO_DPR
 TanyaButskaya
 Ten_NaPleten
@@ -125,12 +128,16 @@ VwordMedia
 Vzgliad_iz_Donbassa
 WarDonbass
 WarOnlineNews
+WarofNewRussia
 Wek_ru
 WhiteHouseCards
 XHP_tg
+XMAPA_COM
 XU_kraine
 YUGLIVE
 Yaroslav_Yara
+ZNResp
+Z_Rossia
 Z_strana
 Za_Derjavy
 Ze_kartel
@@ -178,6 +185,7 @@ bazed_xx
 bbbreaking
 bditelnost
 beggarinvest
+belaya_kaska
 belshkvarka
 belta_telegramm
 belvestnik
@@ -208,6 +216,7 @@ cossaru
 crimea_operative
 crimeainform
 crimeatru
+ctotoznayu
 ctrs2018
 cyber_Mip
 cyberguerilas
@@ -256,6 +265,7 @@ elite_soldiers_ru
 enderovich
 epoddubny
 ermoscow
+erpalych
 evgenyprimakov
 extremism_71
 faceofwar
@@ -292,6 +302,7 @@ grey_zone
 griaz_zamerla
 groznytv
 gruz200_ua
+gvergasov
 gyurzzza
 h1ghl1ghts
 hackberegini
@@ -307,6 +318,7 @@ icokaraulny
 icorpus_su
 imerkouri
 imnotbozhena
+in_Nalchik
 infantmilitario
 infomoscow24
 informator_UKR
@@ -418,9 +430,11 @@ nastol
 national_overseer
 nationalist_russian
 navideovidno
+nddnr
 ne_propaganda
 nealbin
 nechaev_017
+nedogl
 neoficialniybezsonov
 nerus_rus
 nevzorro
@@ -430,6 +444,7 @@ newjon2022
 newlg2022
 news_forfree
 news_online_24
+news_rus_ua_dnr
 news_vo
 newsby_info
 newsruandua
@@ -446,6 +461,7 @@ nomenclatura
 notes_veterans
 nourlnews
 novorosinform
+novostest
 novostirussia24
 novostldnr
 npo_dvina
@@ -474,6 +490,7 @@ oprf_official
 opyat22
 orda_mordora
 orfosvinstvo
+oruzhejnyj_master
 ostorozhno_novosti
 paladin1211
 panda_news_panda
@@ -484,8 +501,10 @@ patriotkbr
 pavelkazarin
 pdmnews
 peach_blossombazi
+pepelclaasa
 persimmoncrimea
 pezdicide
+pilachz
 pl_syrenka
 pltrk
 plushevie
@@ -534,6 +553,7 @@ ragnarockkyiv
 ranarod
 rasstrelny
 rasstriga
+razved_dozor
 razvedinfo
 razvedkanal
 rbc_news
@@ -545,6 +565,7 @@ remeslaw
 respublika_herson
 rezident_ua
 rf200_now
+rfs_PolitInfo
 riafan
 riafan_everywhere
 rian_ru
@@ -606,6 +627,8 @@ sheyhtamir
 shkola_zhizn
 shostka_ru
 shot_shot
+shotday
+sibirmedia
 silasaistoka
 siloviki_chat
 sinelor
@@ -649,12 +672,15 @@ swodki
 syriantube
 tass_agency
 tavri
+telegakchr
 teory_elit
+territoria_war
 tg_news_24
 the_continental_hotel
 thehandofthekremlin
 theshard18
 tikandelaki
+todaykhv
 topgun_spb
 toplesofficial
 topor
@@ -676,6 +702,7 @@ unitynationnarmyspb
 urallive
 uranews
 usaperiodical
+uvarovbrest
 varlamov_news
 vashi_slivy
 vatfor
@@ -697,6 +724,7 @@ voen_kor
 voenacher
 voenkorKotenok
 voenzhur
+vognebrodanet
 voice_of_russia
 voiceofrightness
 voitenkov
@@ -729,6 +757,7 @@ yaumamki
 yudenich
 yug_plazdarm
 yurasumy
+zPisar
 z_kharkovnash
 z_osvobodim
 zabar1986
