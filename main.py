@@ -84,6 +84,7 @@ async def main():
                 ChannelPrivate,
                 PeerIdInvalid,
                 TimeoutError,
+                KeyError,
             ):
                 try:
                     await send_report(app, channel_name, texts)
@@ -92,7 +93,7 @@ async def main():
                 except FloodWait as e:
                     print(e)
                     continue
-            await asyncio.sleep(random.randint(1, 20))
+                await asyncio.sleep(random.randint(1, 20))
 
     print('\nРуський воєнний корабль, іди нахуй!')
 
