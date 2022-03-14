@@ -71,6 +71,7 @@ NikonovLive
 NovorossiyaNews
 NovostiDamask
 Novosty
+NowMelitopol
 OkoloBaikala
 OpenUkraine
 Operational_Officer2_Z_bot
@@ -178,6 +179,7 @@ atodoneckpobeda
 avatkov
 aviadispet4er
 bakhmach_ru
+balakleya_ru
 balkanossiper
 basenkovvv
 bazabazon
@@ -227,6 +229,7 @@ daviegoblyad
 degrag
 delyagin
 denisochakovsky
+dfonews
 dimsmirnov175
 diplomatia
 diselin
@@ -375,6 +378,7 @@ lnridnrru
 luganmedia
 luganskallnews
 lugansktodayy
+lugpr
 madam_secretar
 majorselivanov
 mardanaka
@@ -521,6 +525,7 @@ politjoystic
 politrings
 politrussiacom
 polittemnik
+polkovnik_hodarenok
 polkovnikt
 polpredstvo_skfo
 pomosh_i_osvobozhdenie
@@ -741,6 +746,7 @@ vybora
 vysokygovorit
 vzglyad_ru
 warRussiaUkraine2022
+war_naiznanky
 warfakeres
 warfakes
 wargonzo
@@ -752,6 +758,7 @@ wingsofwar
 wofnon
 wtyhe2375
 www46tvru
+xerson_oplot
 yaroslav_belousov
 yaumamki
 yudenich

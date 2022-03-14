@@ -62,6 +62,8 @@ async def send_report(app, channel_name, texts):
 
 async def main():
     db = pickledb.load(f'state/{account_name}.db', True)
+    with open('priority_channels.txt') as chats_file:
+        priority_channel_names = funcy.lfilter(None, chats_file.readlines())
     with open('channels.txt') as chats_file:
         channel_names = funcy.lfilter(None, chats_file.readlines())
     with open('report_texts.txt') as texts_file:
@@ -70,6 +72,7 @@ async def main():
     async with Client(storage, api_id, api_hash, no_updates=True, workdir='state') as app:
         channel_names = list(set(channel_names))
         random.shuffle(channel_names)
+        channel_names = priority_channel_names + channel_names
         print(f'{len(channel_names)} channel in list')
         for channel_name in channel_names:
             if channel_name.startswith('+'):

@@ -3,8 +3,8 @@ import asyncio
 import funcy
 
 
-async def main():
-    with open('channels.txt') as chats_file:
+def normalize(filename):
+    with open(filename) as chats_file:
         chat_names = funcy.lfilter(None, chats_file.readlines())
     chat_names = list(set(chat_names))
     normalized_names = []
@@ -14,10 +14,21 @@ async def main():
             .removeprefix('http://t.me/')\
             .removeprefix('@')\
             .strip()
+        if '/' in chat_name:
+            chat_name = chat_name[:chat_name.index('/')]
         normalized_names.append(chat_name)
-    for name in sorted(set(normalized_names)):
-        if name.startswith('+'):
-            continue
-        print(name)
+    with open(filename, 'w') as chats_file:
+        chats_file.write('\n'.join(
+            name
+            for name in sorted(set(normalized_names))
+            if not name.startswith('+')
+        ))
 
-asyncio.run(main())
+
+def main():
+    normalize('channels.txt')
+    normalize('priority_channels.txt')
+
+
+if __name__ == '__main__':
+    main()
