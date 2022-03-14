@@ -2,4 +2,4 @@ from pyrogram.storage import FileStorage
 
 
 class Storage(FileStorage):
-    USERNAME_TTL = 48 * 60 * 60  # 24 hours
+    USERNAME_TTL = 72 * 60 * 60  # 72 hours
