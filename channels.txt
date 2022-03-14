@@ -41,6 +41,7 @@ KatiaTxiLive
 Kavkazskaya_pravda
 KharkovWarZ
 KharkovZWar
+Khartsyzk
 Kiev_Republic
 KrokooDil
 Kurskiy_Pravdorub
@@ -438,6 +439,7 @@ milit_zondez
 military_corner
 military_events_in_Ukraine
 militaryreview
+minibbus
 minzdravny
 miroshnik_r
 mislinemisli
@@ -498,6 +500,7 @@ nomenclatura
 notes_veterans
 nourlnews
 novomoskovsk_ru
+novopressa
 novorosinform
 novostest
 novostirussia24
@@ -625,6 +628,7 @@ robabayan
 romagolovanov
 romny_ru
 rosgvardia67
+roshchenko_a_s
 rossia_news
 rostov_glavniy
 rostov_na_konu
@@ -807,6 +811,7 @@ warfakeres
 warfakes
 wargonzo
 warjournaltg
+warmilk22
 whitefilin
 whytzek
 windowsonaurora
