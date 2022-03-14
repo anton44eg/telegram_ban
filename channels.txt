@@ -44,10 +44,12 @@ KharkovZWar
 Kiev_Republic
 KrokooDil
 Kurskiy_Pravdorub
+LDNRNovorossia
 LIC_LPR
 LNR_DNR_info_bot
 LPR_JCCC
 LastOfRus
+Levon_Mukanian
 MakarenkoLive
 MariaVladimirovnaZakharova
 Marinaslovo
@@ -59,8 +61,10 @@ MediaKiller2021
 MediaOfficers
 MedvedevVesti
 Metametrica
+MikhailOnufrienko
 Mikle1On
 Mrespublika
+Mrk24rf
 Ms_krasota
 MuesliLavrova
 NN_strelka
@@ -76,7 +80,9 @@ OkoloBaikala
 OpenUkraine
 Operational_Officer2_Z_bot
 PRO_respubliku
+PatrickLancaterNewsToday
 Petya_perviy
+PodolyakaYurij
 PolitBulka
 PolitTransit
 Postovo
@@ -84,6 +90,7 @@ Prigovorchiki
 Prikhodko1970
 ProriV37
 Psihychka
+RFsuzvRF
 RIA82rf
 RIAKremlinpool
 RKadyrov_95
@@ -100,6 +107,7 @@ Russian_Reconquista
 Russkyship
 SHTABHDSHNR
 SIL0VIKI
+SMERSHDPR
 SMIcrimea
 S_Udaev
 SecLabNews
@@ -110,6 +118,7 @@ Sladkov_plus
 Soldieroffortune777
 SolovievLive
 SonOfMonarchy
+StopGoebbels
 SuperRu
 SwissVatnik
 TJournal
@@ -122,6 +131,7 @@ The_Idiot
 TrevogaDonetsk
 Ugolok_Sitha
 Ukrainian_format
+VVS_RF
 Varshava8888
 Vasily_Prozorov
 VladimirKarasyov
@@ -143,6 +153,7 @@ Z_strana
 Za_Derjavy
 Ze_kartel
 Zloyrusskiy3_bot
+Zsvodky
 a_vyshinskiy
 abunin
 act_next
@@ -155,6 +166,7 @@ akashevarova
 akhmeddudaev
 akimapache
 akitilop
+aladinhabr
 aleksandr_skif
 alexandr_malkevich
 alexeypoddubny_jango
@@ -165,9 +177,12 @@ anti_navalny
 antifishechki
 antimaidan
 antiskrepa
+antohakrasava
+ap62297
 apleonkov
 apostolaki_the_cat
 aramsays
+archanonews
 archivarius_dz
 armiya_Z
 armmirotvorec
@@ -195,7 +210,9 @@ big_brother_oren
 boilerroomchannel
 bomsclaim
 boris_rozhin
+brd_zavtra
 breakingmash
+breakingnewstg
 brosok_mangusta_Z
 brussinf
 bulbe_de_trones
@@ -204,6 +221,8 @@ bydrbre
 chanelpeskova
 chechnya_translyatsia_kadyrovtsy
 chergovii
+chernigov_ru
+chernigovskaya_chat
 cherniy_kvartal
 chesnokmedia
 chistoprikol
@@ -213,6 +232,7 @@ chp_ukraina_voina_russia
 chvkmedia
 chvteme
 cmiye
+conflict_war
 conqueror95
 cossaru
 crimea_operative
@@ -228,6 +248,7 @@ dark_donetskz
 daviegoblyad
 degrag
 delyagin
+demilitarisationukr
 denisochakovsky
 dfonews
 dimsmirnov175
@@ -248,6 +269,7 @@ donbass_segodnya
 donbasscase
 donbasslens
 donbassr
+donbassr_chat
 donetsk_chp
 dontel
 dontime
@@ -278,6 +300,7 @@ fakecontrol
 fcpeshka
 fifthrepublic
 first_political
+fm_katastrofa
 freshwh1teroses
 fuckyouthatswhy
 galulala
@@ -327,12 +350,14 @@ infomoscow24
 informator_UKR
 informator_life
 informburo_sfd
+infovirusa
 insect_life
 intelslava
 internetsmi
 intuition2036
 iskra_press
 istorijaoruzija
+iuriipodoliaka
 izolentalive
 journalist_lnr
 juchkovsky
@@ -362,6 +387,7 @@ kremlin_bashnya
 kremlinprachka
 krimski
 krispotupchik
+krivoirog_ru
 kykygnezdo
 ladesov_invest
 lady_north
@@ -375,6 +401,7 @@ life_odessa
 live_rt
 livenec
 lnridnrru
+lubazaytseva
 luganmedia
 luganskallnews
 lugansktodayy
@@ -414,6 +441,8 @@ minzdravny
 miroshnik_r
 mislinemisli
 mllegion
+mo_oddr_cgr
+molotinfo
 momanya_tut
 montyan2
 moria40k
@@ -429,10 +458,12 @@ nabludatels
 nach_shtabu
 nailyaaskerzade
 nalchik0
+nashy_liudi
 nastikatube
 nastol
 national_overseer
 nationalist_russian
+nationkurs
 navideovidno
 nddnr
 ne_propaganda
@@ -451,6 +482,7 @@ news_online_24
 news_rus_ua_dnr
 news_vo
 newsby_info
+newsfrontnotes
 newsruandua
 newswash
 nexta_live
@@ -464,6 +496,7 @@ nm_dnr
 nomenclatura
 notes_veterans
 nourlnews
+novomoskovsk_ru
 novorosinform
 novostest
 novostirussia24
@@ -486,6 +519,7 @@ omonmoscow
 onf_front
 online47news
 ontnews
+opa4ke
 openrussia_official
 operdrain
 operline_ru
@@ -496,6 +530,7 @@ orda_mordora
 orfosvinstvo
 oruzhejnyj_master
 ostorozhno_novosti
+ournewsru
 paladin1211
 panda_news_panda
 panteri_panteri
@@ -503,10 +538,12 @@ panteripanterishop
 parbut
 patriotkbr
 pavelkazarin
+pavlograd_ru
 pdmnews
 peach_blossombazi
 pepelclaasa
 persimmoncrimea
+petrovtel
 pezdicide
 pilachz
 pl_syrenka
@@ -516,15 +553,19 @@ plusjournal
 pm_rus
 pobeda75
 podled
+podolyaka_yuriy
 poisk_mil
 politadequate
 politakula
 politanimalss
+politfront
+politics_MID
 politinformation_rubshtein
 politjoystic
 politrings
 politrussiacom
 polittemnik
+polk2020
 polkovnik_hodarenok
 polkovnikt
 polpredstvo_skfo
@@ -544,6 +585,7 @@ pridybaylo
 prosmis
 publikuemvce
 pushilindenis
+putin_life
 putin_zelenskiy7
 pvsgns
 qa_automation
@@ -551,6 +593,7 @@ r0xieee
 rabotaembrat
 rabotaitebratia
 radio_sputnik
+radiogovoritmsk
 radiogram_ru
 radiorossii
 radlekukh
@@ -591,6 +634,7 @@ rukakremlja
 ruredmantis
 rus24_7
 rus_news8
+ruskline_ru
 rusmonstr
 rusnetocracy
 russ_orientalist
@@ -668,9 +712,12 @@ subject_main
 sueverdem
 sumy_ru
 superdolgov
+surf_noise1
 sv_lj
 svarschiki
 svinotbiv
+svodkavdnr
+svodki_donbassa
 svodkidpr
 svodkinovorossiya
 swodki
@@ -686,6 +733,7 @@ thehandofthekremlin
 theshard18
 tikandelaki
 todaykhv
+todayukrnews
 topgun_spb
 toplesofficial
 topor
@@ -693,6 +741,7 @@ topspb_tv
 topwar_ru
 totall_news
 trueolen
+truthorg89
 tsargradtv
 turan_express
 tvjihad
@@ -701,6 +750,7 @@ ukr_leaks
 ukraina_ru
 ukraine_voina_news
 ukropi
+undissolved
 uniannet
 unitynationnarmy
 unitynationnarmyspb
@@ -716,6 +766,7 @@ vedomosti
 vegcelo
 verkhovna_rada_ua
 vesparevenge
+vesti_r
 vestifmplus
 vibornyk
 videoduma
@@ -733,18 +784,22 @@ vognebrodanet
 voice_of_russia
 voiceofrightness
 voitenkov
+volnovaxanovosti
 volodin_saratov
 volrota
 vorchunmedia
 vorposte
 voynareal
+voynarf
 vprorok
 vrogov
+vse_novosti
 vsrfsupport
 vv_volodin
 vybora
 vysokygovorit
 vzglyad_ru
+waarfvsy
 warRussiaUkraine2022
 war_naiznanky
 warfakeres
@@ -773,6 +828,7 @@ zakuliska
 zamesinfo
 zampolitnews
 zapiski_veterana
+zapravduzp
 zelensky_voyna
 zheltyeslivy
 zhestvoinaukraina
@@ -781,4 +837,7 @@ zola_of_renovation
 zoperation
 zradaperemoga
 zubovskiy4
+zv_rf
 zvezdanews
+zvideonews
+zzoperation

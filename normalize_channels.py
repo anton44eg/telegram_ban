@@ -15,6 +15,8 @@ def normalize(filename):
             .removeprefix('@')\
             .strip()
         if '/' in chat_name:
+            if chat_name.startswith('joinchat'):
+                continue
             chat_name = chat_name[:chat_name.index('/')]
         normalized_names.append(chat_name)
     with open(filename, 'w') as chats_file:
