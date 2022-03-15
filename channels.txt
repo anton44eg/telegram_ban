@@ -22,6 +22,7 @@ DonbassYasinovatayanaliniiOgnia
 Doninside
 ENews112
 EQUILIBRIUM2019
+ErnestMakarenko
 EvPanina
 FM_Analitics
 Factdey
@@ -51,6 +52,7 @@ LNR_DNR_info_bot
 LPR_JCCC
 LastOfRus
 Levon_Mukanian
+MID_Russia
 MakarenkoLive
 MariaVladimirovnaZakharova
 Marinaslovo
@@ -147,6 +149,7 @@ XHP_tg
 XMAPA_COM
 XU_kraine
 YUGLIVE
+Ya_Je_Najimal
 Yaroslav_Yara
 ZNResp
 Z_Rossia
@@ -187,6 +190,7 @@ archanonews
 archivarius_dz
 armiya_Z
 armmirotvorec
+armrusforever
 armyZO
 arturkra95
 asamtokakdumaesh
@@ -216,6 +220,7 @@ breakingmash
 breakingnewstg
 brosok_mangusta_Z
 brussinf
+brygada53
 bulbe_de_trones
 buntariy
 bydrbre
@@ -265,6 +270,7 @@ dnrzaputina
 docpro
 dolg_z
 dolgarevaanna
+donbass_donetskq
 donbass_novosti_peregovori
 donbass_segodnya
 donbasscase
@@ -327,6 +333,7 @@ gpkgovby
 gramotyyaroslava
 grey_zone
 griaz_zamerla
+gridchina_a_a
 groznytv
 gruz200_ua
 gvergasov
@@ -408,6 +415,7 @@ luganmedia
 luganskallnews
 lugansktodayy
 lugpr
+lyubow_ozernaya_kogan
 madam_secretar
 majorselivanov
 mardanaka
@@ -475,6 +483,7 @@ nechaev_017
 nedogl
 neoficialniybezsonov
 nerus_rus
+neuesausrusslan
 nevzorro
 new_militarycolumnist
 newgrodno
@@ -507,6 +516,7 @@ novostirussia24
 novostldnr
 npo_dvina
 ntnzn
+obstanovkalnr
 ochevidecrfua
 oculus_inferno
 oddr_info
@@ -539,6 +549,7 @@ paladin1211
 panda_news_panda
 panteri_panteri
 panteripanterishop
+papa_zharit_lg
 parbut
 patriotkbr
 pavelkazarin
@@ -555,6 +566,8 @@ pltrk
 plushevie
 plusjournal
 pm_rus
+pnzhunta
+pnzspec
 pobeda75
 podled
 podolyaka_yuriy
@@ -597,6 +610,7 @@ r0xieee
 rabotaembrat
 rabotaitebratia
 radio_sputnik
+radioborba48
 radiogovoritmsk
 radiogram_ru
 radiorossii
@@ -689,6 +703,7 @@ sinelor
 skabeeva
 skabeevy
 skfo_telegraph
+skorikovivan
 skosoi
 slivypervogo
 smotri_media
@@ -750,6 +765,7 @@ truthorg89
 tsargradtv
 turan_express
 tvjihad
+ua_tribunal
 uaaxxxxx
 ukr_leaks
 ukraina_ru
@@ -777,9 +793,11 @@ vibornyk
 videoduma
 videotca_Andrea
 vityzeva
+vivaburtasia
 vladivostok1978
 vladlentatarsky
 vladlentatarsky_books
+vmakeevke
 vmarahovsky
 voen_kor
 voenacher
@@ -796,6 +814,7 @@ vorchunmedia
 vorposte
 voynareal
 voynarf
+voynaukrainarussia
 vprorok
 vrogov
 vse_novosti
@@ -839,6 +858,7 @@ zelensky_voyna
 zheltyeslivy
 zhestvoinaukraina
 zhivoff
+znahar_f1
 zola_of_renovation
 zoperation
 zradaperemoga
@@ -847,3 +867,4 @@ zv_rf
 zvezdanews
 zvideonews
 zzoperation
+️https:
