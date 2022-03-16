@@ -11,3 +11,4 @@ novomoskovsk_ru
 pavlograd_ru
 priluki_ru
 respublika_herson
+stranaua
