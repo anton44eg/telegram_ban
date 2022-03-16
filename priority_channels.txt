@@ -1,7 +1,10 @@
 ZNResp
+ahtirka_ru
 bakhmach_ru
 chernigov_ru
+gluhov_ru
 herson_ru
+konotop_ru
 krivoirog_ru
 nezhin_ru
 nikopol_ru
@@ -11,4 +14,7 @@ novomoskovsk_ru
 pavlograd_ru
 priluki_ru
 respublika_herson
+romny_ru
+shostka_ru
 stranaua
+sumy_ru
