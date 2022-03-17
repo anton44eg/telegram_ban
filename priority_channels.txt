@@ -1,7 +1,11 @@
 Doninside
+MariaVladimirovnaZakharova
 ZNResp
 ahtirka_ru
 bakhmach_ru
+berezany_ru
+bilatserkva_ru
+brovar_ru
 chernigov_ru
 chp_donetsk
 chp_lugansk
@@ -20,10 +24,14 @@ nikopol_ru
 nosovka_ru
 novgorodseversky_ru
 novomoskovsk_ru
+obyxov_ru
+owruch_ru
 pavlograd_ru
 priluki_ru
 respublika_herson
 romny_ru
 shostka_ru
+slavytich_ru
 stranaua
 sumy_ru
+vasilkov_ru

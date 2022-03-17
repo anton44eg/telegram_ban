@@ -117,6 +117,7 @@ SecLabNews
 SergeyKolyasnikov
 ShlyapaChelentano
 ShrikeNews
+ShturmovikSu25
 Sladkov_plus
 Soldieroffortune777
 SolovievLive
@@ -192,6 +193,7 @@ armiya_Z
 armmirotvorec
 armrusforever
 armyZO
+armyzandv
 arturkra95
 asamtokakdumaesh
 astramilitarum
@@ -211,7 +213,10 @@ belaya_kaska
 belshkvarka
 belta_telegramm
 belvestnik
+berezany_ru
 big_brother_oren
+bilatserkva_ru
+blablaUAH
 boilerroomchannel
 bomsclaim
 boris_rozhin
@@ -219,6 +224,7 @@ brd_zavtra
 breakingmash
 breakingnewstg
 brosok_mangusta_Z
+brovar_ru
 brussinf
 brygada53
 bulbe_de_trones
@@ -350,6 +356,7 @@ ia_steklomoy
 ice_inii
 icokaraulny
 icorpus_su
+iirpen_ru
 imerkouri
 imnotbozhena
 in_Nalchik
@@ -506,8 +513,10 @@ nifed_alerts
 nightstrikers
 nm_dnr
 nomenclatura
+nosovka_ru
 notes_veterans
 nourlnews
+novgorodseversky_ru
 novomoskovsk_ru
 novopressa
 novorosinform
@@ -517,6 +526,7 @@ novostldnr
 npo_dvina
 ntnzn
 obstanovkalnr
+obyxov_ru
 ochevidecrfua
 oculus_inferno
 oddr_info
@@ -545,6 +555,7 @@ orfosvinstvo
 oruzhejnyj_master
 ostorozhno_novosti
 ournewsru
+owruch_ru
 paladin1211
 panda_news_panda
 panteri_panteri
@@ -599,6 +610,7 @@ pravyy_vestnik
 prbezposhady
 pridnestrovec
 pridybaylo
+priluki_ru
 prosmis
 publikuemvce
 pushilindenis
@@ -705,6 +717,7 @@ skabeevy
 skfo_telegraph
 skorikovivan
 skosoi
+slavytich_ru
 slivypervogo
 smotri_media
 snr_info
@@ -781,6 +794,7 @@ usaperiodical
 uvarovbrest
 varlamov_news
 vashi_slivy
+vasilkov_ru
 vatfor
 vechernii_m
 vedomosti
