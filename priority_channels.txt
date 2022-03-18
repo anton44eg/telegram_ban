@@ -34,4 +34,5 @@ shostka_ru
 slavytich_ru
 stranaua
 sumy_ru
+vagner_group
 vasilkov_ru

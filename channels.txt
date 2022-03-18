@@ -139,6 +139,7 @@ VVS_RF
 Varshava8888
 Vasily_Prozorov
 VladimirKarasyov
+Voyna
 VwordMedia
 Vzgliad_iz_Donbassa
 WarDonbass
@@ -792,6 +793,7 @@ urallive
 uranews
 usaperiodical
 uvarovbrest
+vagner_group
 varlamov_news
 vashi_slivy
 vasilkov_ru
@@ -850,6 +852,7 @@ whytzek
 windowsonaurora
 wingsofwar
 wofnon
+workBrothers
 wtyhe2375
 www46tvru
 xerson_oplot
