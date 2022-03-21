@@ -153,6 +153,7 @@ XU_kraine
 YUGLIVE
 Ya_Je_Najimal
 Yaroslav_Yara
+ZFrontZ
 ZNResp
 Z_Rossia
 Z_strana
@@ -254,6 +255,7 @@ crimeatru
 ctotoznayu
 ctrs2018
 cyber_Mip
+cyber_frontZ
 cyberguerilas
 cyberwar_world
 d_slava476
@@ -290,6 +292,7 @@ dontime
 dorogoydedushka
 dplatonova
 dr_alex_sosnowski
+drena_di
 dtlive
 duma_2021
 dvachannel
@@ -512,6 +515,7 @@ nicstavrogin
 niemandswasser
 nifed_alerts
 nightstrikers
+nikopol_ru
 nm_dnr
 nomenclatura
 nosovka_ru
@@ -584,6 +588,7 @@ pobeda75
 podled
 podolyaka_yuriy
 poisk_mil
+poiskistiny8
 politadequate
 politakula
 politanimalss
@@ -665,6 +670,7 @@ rubezhnoe_discuss
 rukakremlja
 ruredmantis
 rus24_7
+rus_armi
 rus_news8
 ruskline_ru
 rusmonstr
@@ -793,6 +799,7 @@ urallive
 uranews
 usaperiodical
 uvarovbrest
+uzelsv
 vagner_group
 varlamov_news
 vashi_slivy
