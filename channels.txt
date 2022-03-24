@@ -1,8 +1,10 @@
+
 ASGasparyan
 ASupersharij
 ATN_BTRC
 Abbasdjuma
 Aksenov82
+AlanMamiati
 AleksandrSemchenko
 Army_Russia
 AteoGo
@@ -44,6 +46,7 @@ KharkovWarZ
 KharkovZWar
 Khartsyzk
 Kiev_Republic
+Kot_Kostyan
 KrokooDil
 Kurskiy_Pravdorub
 LDNRNovorossia
@@ -56,6 +59,7 @@ MID_Russia
 MakarenkoLive
 MariaVladimirovnaZakharova
 Marinaslovo
+MariyaViskunova
 Mariypolrus
 MaterikMedia
 MaximYusin
@@ -89,6 +93,7 @@ PodolyakaYurij
 PolitBulka
 PolitTransit
 Postovo
+Pravdivaya_pravda
 Prigovorchiki
 Prikhodko1970
 ProriV37
@@ -104,6 +109,7 @@ RVvoenkor
 Radioskaner
 RegnumMoscow
 Rem7sek
+Rogandar
 RtrDonetsk
 RusTroyka
 Russian_Reconquista
@@ -153,6 +159,7 @@ XU_kraine
 YUGLIVE
 Ya_Je_Najimal
 Yaroslav_Yara
+ZE_kartel
 ZFrontZ
 ZNResp
 Z_Rossia
@@ -178,6 +185,7 @@ aleksandr_skif
 alexandr_malkevich
 alexeypoddubny_jango
 analyst_on_the_couch
+andreyVajra
 anna_news
 annashafran
 anti_navalny
@@ -202,6 +210,7 @@ astramilitarum
 atodoneckpobeda
 avatkov
 aviadispet4er
+badcrimea
 bakhmach_ru
 balakleya_ru
 balkanossiper
@@ -241,6 +250,7 @@ cherniy_kvartal
 chesnokmedia
 chistoprikol
 chp_donetsk
+chp_lugansk
 chp_show
 chp_ukraina_voina_russia
 chvkmedia
@@ -275,6 +285,7 @@ dnepr_partizani
 dnr24
 dnr_lnrf
 dnrlnronline
+dnronline
 dnrzaputina
 docpro
 dolg_z
@@ -350,7 +361,9 @@ gvergasov
 gyurzzza
 h1ghl1ghts
 hackberegini
+herson_respublika
 herson_ru
+herson_rus
 history_doronina
 holmogortalks
 hot_ukraine_news
@@ -414,6 +427,7 @@ lady_north
 legalizaciyaMID
 legitimniy
 legitimniy_live
+leraromantika
 lesonaval
 lesyaryabtseva
 lgbelarussegodnya
@@ -429,6 +443,7 @@ lugpr
 lyubow_ozernaya_kogan
 madam_secretar
 majorselivanov
+mamaeva_alana
 mardanaka
 margaritasimonyan
 mariashukshina
@@ -480,6 +495,7 @@ nabludatels
 nach_shtabu
 nailyaaskerzade
 nalchik0
+nar_dip
 nashy_liudi
 nastikatube
 nastol
@@ -515,8 +531,10 @@ nicstavrogin
 niemandswasser
 nifed_alerts
 nightstrikers
+nik_pup
 nikopol_ru
 nm_dnr
+nohatetorussians
 nomenclatura
 nosovka_ru
 notes_veterans
@@ -550,6 +568,7 @@ online47news
 ontnews
 opa4ke
 openrussia_official
+oper_goblin
 operdrain
 operline_ru
 opersvodki
@@ -689,6 +708,7 @@ russiavpered002
 russiavpered003
 russica2
 russicabrief
+rustroyka2
 rusvesnasu
 rusyerevantoday
 rwhack_group
@@ -696,6 +716,7 @@ rybar
 rybar_bot
 rybar_feedback_bot
 rybarnaya_1
+sanya_florida
 sashakots
 savanichi
 savchuk_serg
@@ -739,6 +760,7 @@ spravedlivo
 sputnikby
 sputniklive
 ssigny
+sskarnaukhov
 ssleg
 staraya
 stas_news_life
@@ -769,6 +791,7 @@ teory_elit
 territoria_war
 tg_news_24
 the_continental_hotel
+the_yana_poplavskaya
 thehandofthekremlin
 theshard18
 tikandelaki
@@ -790,6 +813,7 @@ uaaxxxxx
 ukr_leaks
 ukraina_ru
 ukraine_voina_news
+ukrainenow22
 ukropi
 undissolved
 uniannet
@@ -800,6 +824,7 @@ uranews
 usaperiodical
 uvarovbrest
 uzelsv
+vadovskaya
 vagner_group
 varlamov_news
 vashi_slivy
@@ -809,6 +834,7 @@ vechernii_m
 vedomosti
 vegcelo
 verkhovna_rada_ua
+veronikastepanova20011
 vesparevenge
 vesti_r
 vestifmplus
@@ -820,6 +846,7 @@ vivaburtasia
 vladivostok1978
 vladlentatarsky
 vladlentatarsky_books
+vladlentatarsk️
 vmakeevke
 vmarahovsky
 voen_kor
@@ -873,6 +900,7 @@ z_kharkovnash
 z_osvobodim
 zabar1986
 zaes_energoatom
+zakharprilepin
 zakuliska
 zamesinfo
 zampolitnews
